@@ -49,3 +49,4 @@ Exploring this new world and finding evidence of the Lost Empire is an important
 
 ### Ancient Dangers
 
+Ancient defenses left by the people long lost. Enemies of the old empire who survived and still threaten the world. There are many opportunities for local threats, but an important part of the story are the threats from long ago.
