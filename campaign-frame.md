@@ -29,7 +29,7 @@ When building your character, consider why they would volunteer to join this exp
 
 ### Explorers of Terra Incognita
 
-You are explorers discovering an unknown world. Nobody from the Old World (as far as you know) has set foot in this region in countless generations. Exploring this long lost world is an important part of why your character is on this journey. Even if they were not the first person to jump up and volunteer to explore this new realm, it should still hold some wonder.
+You are explorers discovering an unknown world. Nobody from the Old World (as far as you know) has set foot in this region. Exploring this long lost world is an important part of why your character is on this journey. Even if they were not the first person to jump up and volunteer to explore this new realm, exploration should still be a main motivation.
 
 ### Settlers Far From Home
 
@@ -39,4 +39,13 @@ The people who volunteered to go on this expedition did it with the understandin
 
 *Keep the following guidance in mind while you GM this campaign.*
 
-TO BE FILLED IN LATER
+### Create Struggle in the Community
+
+This is the story of a settlement struggling to survive on their own. Even if travel from the Old World is possible, it is still infrequent enough that the people of the settlement need to make their way on their own. It may take six weeks for help to come from home, so how do the people of the settlement make do until help arrives? The only people you have are the people you brought, so  disagreements have to be resolved. Sometimes, the greatest danger isn't the monster outside the house, but the fact that the people inside can't agree on how to fight it.
+
+### Center Discovery and Exploration
+
+Exploring this new world and finding evidence of the Lost Empire is an important pillar in this story. While other conflicts should always be present, the PCs should always be have the opportunity to discover new lost relics, treasures, and secrets of the Lost Empire.
+
+### Ancient Dangers
+
